@@ -143,8 +143,9 @@ header h1 {
     font-size: 36px;
 }
 #email-header {
-    font-size: 32px;
+    font-size: 29px;
     font-weight: lighter;
+    font-family: 'Lora', serif;
     margin: -25px 0 5px 0;
 }
 #socialmedia-header {
